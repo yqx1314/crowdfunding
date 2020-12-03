@@ -1,0 +1,4 @@
+# Project exclude paths
+/crowdfunding-common/target/
+/crowdfunding-manager/target/
+/crowdfunding-web/target/
